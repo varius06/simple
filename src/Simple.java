@@ -1,5 +1,6 @@
 public class Simple {
     public static void main(String[] args) {
         System.out.println("Тестовая программа");
+        System.out.println("Тестовая программа2");
     }
 }
