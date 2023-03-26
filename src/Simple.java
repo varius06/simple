@@ -3,5 +3,6 @@ public class Simple {
         System.out.println("Тестовая программа");
         System.out.println("Тестовая программа2");
         System.out.println("Тестовая программа3");
+        System.out.println("Тестовая программа4");
     }
 }
